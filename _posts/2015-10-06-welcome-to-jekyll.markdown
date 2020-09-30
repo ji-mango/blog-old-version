@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-10-06 15:39:40
-preview: holder.js/300x300?auto=yes
+title:  "ji-mango blog"
+date:   2020-10-01
 ---
 
 ![Picture 1](holder.js/800x600?auto=yes)
