@@ -1,4 +1,9 @@
 # Site settings
+default:
+  - scope:
+    path: "https://stickershop.line-scdn.net/stickershop/v1/product/1556285/LINEStorePC/main.png;compress=true"
+  values:
+  image: true
 title: ji-mango blog
 email: susie000301@naver.com
 description: > # this means to ignore newlines until "baseurl:"
