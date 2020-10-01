@@ -1,7 +1,7 @@
 # Site settings
 default:
   - scope:
-    path: "https://stickershop.line-scdn.net/stickershop/v1/product/1556285/LINEStorePC/main.png;compress=true"
+     path: "https://stickershop.line-scdn.net/stickershop/v1/product/1556285/LINEStorePC/main.png;compress=true"
   values:
   image: true
 title: ji-mango blog
