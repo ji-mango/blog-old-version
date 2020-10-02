@@ -4,5 +4,5 @@ title: about
 permalink: /about/
 ---
 
-### -Name : Kim Ji Min  
-### -Major : Software
+### _-Name : Kim Ji Min_  
+### _-Major : Software_
